@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1,
+        "name":" AirPods",
+        "price": "21,999",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-airpods-nav-202209?wid=400&hei=260&fmt=png-alpha&.v=1660676485885"
+    },
+    {
+        "id": 2,
+        "name":" Apple Watch",
+        "price": "41,999",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-watch-nav-202309_GEO_IN?wid=400&hei=260&fmt=png-alpha&.v=1693703814407"
+    },
+    {
+        "id": 3,
+        "name":" iPhone",
+        "price": "70,000",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-iphone-nav-202309_GEO_EMEA?wid=400&hei=260&fmt=png-alpha&.v=1692971740071"
+    },
+    {
+        "id": 4,
+        "name":" Mac",
+        "price": "1,49,999",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-mac-nav-202310?wid=400&hei=260&fmt=png-alpha&.v=1696964122666"
+    },
+    {
+        "id": 5,
+        "name":" AirTag",
+        "price": "3,490",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-airtags-nav-202108?wid=400&hei=260&fmt=png-alpha&.v=1625783380000"
+    },
+    {
+        "id": 6,
+        "name":" Apple TV 4K",
+        "price": "14,900",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-appletv-nav-202210?wid=400&hei=260&fmt=png-alpha&.v=1664628458484"
+    },
+    {
+        "id": 7,
+        "name":" HomePod",
+        "price": "32,900",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-homepod-nav-202301?wid=400&hei=260&fmt=png-alpha&.v=1670389216654"
+    },
+    {
+        "id": 8,
+        "name":" Accessories",
+        "price": "5,000",
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/store-card-13-accessories-nav-202403?wid=400&hei=260&fmt=png-alpha&.v=1707850611597"
+    }
+
+]
